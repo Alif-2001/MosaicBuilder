@@ -1,0 +1,5 @@
+n,grey,avgColor(hex),filePath
+1,d,#110d09,flip/dark.jpg
+3,l,#e2dad4,flip/light.jpg
+4,ld,#e2bc9d,flip/lightDark.png
+5,dl,#6b594f,flip/Darklight.jpg
